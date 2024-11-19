@@ -35,8 +35,8 @@ I'm a passionate developer from Iran. I love creating innovative solutions to ch
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker" />
   </p>
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirDevX&show_icons=true&theme=github_dark)
+## 📈 WakaTime Stats
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirDevX&theme=github_dark)](https://wakatime.com/@AmirDevX)
 
 ## 🗂️ Projects
 Here are some of the projects I'm proud of:
