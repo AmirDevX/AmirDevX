@@ -1,7 +1,7 @@
 # Hi there, I'm AmirDevX! 👋
 
 ## 🚀 About Me
-I'm a passionate developer from Iran. I love creating innovative solutions to challenging problems. I specialize in (Python) backend, and I'm currently working on Discord Bot.
+I'm a passionate developer from Iran. I love creating innovative solutions to challenging problems. I specialize in (Python) backend, and I'm currently working on Naghdix.
 
 ## 🛠️ Technologies & Tools
 - **Languages:**
